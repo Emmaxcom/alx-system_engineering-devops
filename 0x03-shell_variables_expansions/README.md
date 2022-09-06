@@ -1,1 +1,1 @@
-Shell Variables expansions
+Create a script that creates an alias.
